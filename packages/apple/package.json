@@ -1,5 +1,5 @@
 {
-  "name": "apple",
+  "name": "lerna_bbi_apple",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "e46fbef066c4a0344862aa4f036052c21ba156ab"
+  "gitHead": "bfea75031e791fe1bc100fc77839c53b1deb215c"
 }
